@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-top: 70px;
+}
+  
+h1 {
+  text-align: center;
+}
+  
+p {
+  text-align: center;
+}
+  
+.ong-card {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+  
+.ong-card img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto 10px;
+}
+  
+.ong-card h2 {
+  text-align: center;
+}
+  
+.ong-card p {
+  text-align: center;
+}
+  
+.qr-code {
+  display: block;
+}
+
+.exemplo.p1{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.nav-item {
+  margin: 0 20px;
+}
+
+.bg-barra {
+  background: linear-gradient(0deg, #22ff0000 0%, rgb(82 255 0 / 0%) 100%);
+  box-shadow: 0px 0px 5px rgba(51, 51, 51, 0.4);
+}
+
+
+.bg-barra .nav-link {
+  color: #0b8af1;
+  font-weight: bold;
+  font-display: Roboto;
+  text-transform: uppercase;
+}
